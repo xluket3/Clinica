@@ -1,0 +1,65 @@
+﻿@model ClinicaSonrrisaPlena.Models.Entities.PlanTratamiento
+
+@{
+    ViewData["Title"] = "Detalle del Plan de Tratamiento";
+}
+
+<h2 class="mb-4">Plan de Tratamiento</h2>
+
+<div class="card mb-4">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3">Paciente</dt>
+            <dd class="col-sm-9">@Model.Paciente.Nombre</dd>
+
+            <dt class="col-sm-3">Odontólogo</dt>
+            <dd class="col-sm-9">@Model.Odontologo.Nombre</dd>
+
+            <dt class="col-sm-3">Fecha de creación</dt>
+            <dd class="col-sm-9">@Model.FechaCreacion.ToShortDateString()</dd>
+
+            <dt class="col-sm-3">Observaciones</dt>             
+            <dd class="col-sm-9">@Model.ObservacionesGenerales</dd> 
+        </dl>
+    </div>
+</div>
+
+<h3 class="mt-4">Pasos del Plan</h3>
+
+@if (Model.Pasos != null && Model.Pasos.Any())
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Fecha Estimada</th>
+                <th>Tratamiento</th>
+                <th>Estado</th>
+                <th>Observaciones</th>
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var paso in Model.Pasos)
+            {
+                <tr>
+                    <td>@paso.FechaEstimada.ToShortDateString()</td>
+                    <td>@paso.Tratamiento.Nombre</td>
+                    <td>@paso.Estado</td>
+                    <td>@paso.Observaciones</td>
+                    <td>
+                        <a asp-controller="PasoPlanes" asp-action="Edit" asp-route-id="@paso.IdPaso" class="btn btn-sm btn-warning">Editar</a>
+                        <a asp-controller="PasoPlanes" asp-action="Delete" asp-route-id="@paso.IdPaso" class="btn btn-sm btn-danger">Eliminar</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+else
+{
+    <div class="alert alert-info">Este plan aún no tiene pasos asignados.</div>
+}
+
+<a asp-controller="PasoPlanes" asp-action="Create" asp-route-idPlan="@Model.IdPlan" class="btn btn-success mt-3">Agregar Paso</a>
+<a asp-action="Index" class="btn btn-secondary mt-3">Volver a la lista</a>
+

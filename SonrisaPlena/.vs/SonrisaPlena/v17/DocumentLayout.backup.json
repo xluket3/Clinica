@@ -1,0 +1,541 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\views\\plantratamientoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:views\\plantratamientoes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\controllers\\plantratamientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:controllers\\plantratamientoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\controllers\\historialtratamientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:controllers\\historialtratamientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\models\\entities\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:models\\entities\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\controllers\\pasoplanescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:controllers\\pasoplanescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\views\\tratamientos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:views\\tratamientos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\views\\pasoplanes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:views\\pasoplanes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\views\\historialtratamientos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:views\\historialtratamientos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\views\\historialtratamientos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:views\\historialtratamientos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\views\\historialtratamientos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:views\\historialtratamientos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\views\\historialtratamientos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:views\\historialtratamientos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\controllers\\tratamientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:controllers\\tratamientoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\controllers\\odontologoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:controllers\\odontologoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\models\\entities\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:models\\entities\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\models\\entities\\tratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:models\\entities\\tratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\models\\entities\\recepcionista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:models\\entities\\recepcionista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\models\\entities\\plantratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:models\\entities\\plantratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:models\\entities\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\models\\entities\\pasoplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:models\\entities\\pasoplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\models\\entities\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:models\\entities\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\models\\entities\\odontologo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:models\\entities\\odontologo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\models\\entities\\historialtratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:models\\entities\\historialtratamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|c:\\users\\frisk\\onedrive\\escritorio\\net\\sonrisaplena\\migrations\\20250614211344_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65FD94E4-886C-4148-AAA3-12E522E3606E}|MVCClinica.csproj|solutionrelative:migrations\\20250614211344_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\PlanTratamientoes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\PlanTratamientoes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\PlanTratamientoes\\Details.cshtml",
+              "RelativeToolTip": "Views\\PlanTratamientoes\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T02:55:10.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlanTratamientoesController.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\PlanTratamientoesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PlanTratamientoesController.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\PlanTratamientoesController.cs",
+              "RelativeToolTip": "Controllers\\PlanTratamientoesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:02:22.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\HistorialTratamientos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\HistorialTratamientos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\HistorialTratamientos\\Create.cshtml",
+              "RelativeToolTip": "Views\\HistorialTratamientos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T00:41:14.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OdontologosController.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\OdontologosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OdontologosController.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\OdontologosController.cs",
+              "RelativeToolTip": "Controllers\\OdontologosController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:40:13.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Tratamiento.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Tratamiento.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Tratamiento.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Tratamiento.cs",
+              "RelativeToolTip": "Models\\Entities\\Tratamiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:14:24.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Turno.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Turno.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Turno.cs",
+              "RelativeToolTip": "Models\\Entities\\Turno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:13:36.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T21:19:29.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "Controllers\\TurnosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:13:41.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAnwA8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:13:51.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-15T01:13:54.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HistorialTratamientosController.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\HistorialTratamientosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HistorialTratamientosController.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\HistorialTratamientosController.cs",
+              "RelativeToolTip": "Controllers\\HistorialTratamientosController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA1wBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T02:25:36.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\HistorialTratamientos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\HistorialTratamientos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\HistorialTratamientos\\Delete.cshtml",
+              "RelativeToolTip": "Views\\HistorialTratamientos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T00:41:56.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\HistorialTratamientos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\HistorialTratamientos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\HistorialTratamientos\\Details.cshtml",
+              "RelativeToolTip": "Views\\HistorialTratamientos\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T00:42:07.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T21:19:45.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Administrador.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Administrador.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Administrador.cs",
+              "RelativeToolTip": "Models\\Entities\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:07:35.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasoPlanesController.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\PasoPlanesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PasoPlanesController.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\PasoPlanesController.cs",
+              "RelativeToolTip": "Controllers\\PasoPlanesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAewDoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T01:03:47.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\PasoPlanes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PasoPlanes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\PasoPlanes\\Index.cshtml",
+              "RelativeToolTip": "Views\\PasoPlanes\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T21:10:30.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T22:09:40.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:14:27.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\HistorialTratamientos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\HistorialTratamientos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\HistorialTratamientos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\HistorialTratamientos\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAIAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-16T00:42:14.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\Tratamientos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Tratamientos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\Tratamientos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Tratamientos\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T21:14:07.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Recepcionista.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Recepcionista.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Recepcionista.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Recepcionista.cs",
+              "RelativeToolTip": "Models\\Entities\\Recepcionista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:09:17.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PlanTratamiento.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\PlanTratamiento.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\PlanTratamiento.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\PlanTratamiento.cs",
+              "RelativeToolTip": "Models\\Entities\\PlanTratamiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T23:44:57.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Persona.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Persona.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Persona.cs",
+              "RelativeToolTip": "Models\\Entities\\Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T23:39:22.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "Controllers\\PacientesController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:40:08.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TratamientosController.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\TratamientosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TratamientosController.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Controllers\\TratamientosController.cs",
+              "RelativeToolTip": "Controllers\\TratamientosController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAJwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:40:02.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PasoPlan.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\PasoPlan.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\PasoPlan.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\PasoPlan.cs",
+              "RelativeToolTip": "Models\\Entities\\PasoPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:08:52.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Paciente.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Paciente.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Paciente.cs",
+              "RelativeToolTip": "Models\\Entities\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T23:54:44.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Odontologo.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Odontologo.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Odontologo.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\Odontologo.cs",
+              "RelativeToolTip": "Models\\Entities\\Odontologo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:07:50.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HistorialTratamiento.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\HistorialTratamiento.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\HistorialTratamiento.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Models\\Entities\\HistorialTratamiento.cs",
+              "RelativeToolTip": "Models\\Entities\\HistorialTratamiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T00:07:43.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250614211344_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Migrations\\20250614211344_Inicial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250614211344_Inicial.cs",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Migrations\\20250614211344_Inicial.cs",
+              "RelativeToolTip": "Migrations\\20250614211344_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:26:37.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\frisk\\OneDrive\\Escritorio\\net\\SonrisaPlena\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T22:10:07.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

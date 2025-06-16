@@ -1,0 +1,197 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCClinica
+build_property.RootNamespace = MVCClinica
+build_property.ProjectDir = C:\Users\frisk\OneDrive\Escritorio\net\SonrisaPlena\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\frisk\OneDrive\Escritorio\net\SonrisaPlena
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/HistorialTratamientos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsVHJhdGFtaWVudG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/HistorialTratamientos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsVHJhdGFtaWVudG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/HistorialTratamientos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsVHJhdGFtaWVudG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/HistorialTratamientos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsVHJhdGFtaWVudG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/HistorialTratamientos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGlzdG9yaWFsVHJhdGFtaWVudG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Odontologos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RvbnRvbG9nb3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Odontologos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RvbnRvbG9nb3NcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Odontologos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RvbnRvbG9nb3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Odontologos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RvbnRvbG9nb3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Odontologos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT2RvbnRvbG9nb3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Pacientes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Pacientes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Pacientes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Pacientes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Pacientes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFjaWVudGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/PasoPlanes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzb1BsYW5lc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/PasoPlanes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzb1BsYW5lc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/PasoPlanes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzb1BsYW5lc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/PasoPlanes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzb1BsYW5lc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/PasoPlanes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFzb1BsYW5lc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/PlanTratamientoes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblRyYXRhbWllbnRvZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/PlanTratamientoes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblRyYXRhbWllbnRvZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/PlanTratamientoes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblRyYXRhbWllbnRvZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/PlanTratamientoes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblRyYXRhbWllbnRvZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/PlanTratamientoes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhblRyYXRhbWllbnRvZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Tratamientos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdGFtaWVudG9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Tratamientos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdGFtaWVudG9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Tratamientos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdGFtaWVudG9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Tratamientos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdGFtaWVudG9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Tratamientos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhdGFtaWVudG9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Turnos/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Turnos/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Turnos/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Turnos/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Turnos/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHVybm9zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/frisk/OneDrive/Escritorio/net/SonrisaPlena/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-gtwb74syt6

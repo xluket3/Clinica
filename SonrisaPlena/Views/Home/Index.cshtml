@@ -1,0 +1,118 @@
+﻿@{
+    ViewData["Title"] = "Promoción - Clínica Sonrisa Plena";
+    Layout = "_Layout"; // Usa el layout general con estilos y navbar
+}
+
+@if (TempData["Mensaje"] != null)
+{
+    <div class="alert alert-success text-center">@TempData["Mensaje"]</div>
+}
+
+<div class="container py-5">
+    <div class="row align-items-center mb-5">
+        <div class="col-md-6">
+            <h1 class="display-4 fw-bold">Bienvenido a Clínica Sonrisa Plena</h1>
+            <p class="lead">Sonrie con confianza: deja tu salud bucal en manos expertas. Atención personalizada, tecnología de última generación y, sobre todo, un trato cálido y humano que te hace sentir en casa.</p>
+            <a href="#formulario" class="btn btn-primary btn-lg mt-3">Reservar AQUÍ</a>
+        </div>
+        <div class="col-md-6 text-center">
+            <img src="https://www.unosalud.cl/wp-content/uploads/2025/06/Limpeiza-Junio-Landing-1930x600-1.jpg" alt="Sonrisa Plena" class="img-fluid rounded shadow">
+        </div>
+    </div>
+
+    <div class="row align-items-center mb-5">
+        <div class="col-md-6 order-md-2">
+            <img src="https://www.doctocliq.com/hubfs/equipo-dental.png" alt="Promoción limpieza dental" class="img-fluid rounded shadow">
+        </div>
+        <div class="col-md-6">
+            <h2 class="fw-bold">Promoción: Limpieza Dental Completa</h2>
+            <p>Eliminación de sarro y placa, pulido dental y evaluación profesional, aprovecha la oferta!!!</p>
+            <div>
+                <span class="badge bg-success fs-5">$9.900</span>
+                <span class="text-muted text-decoration-line-through ms-2">$25.000</span>
+            </div>
+            <a href="#formulario" class="btn btn-success mt-3">Agendar Aquiii</a>
+        </div>
+    </div>
+
+    <div class="text-center mb-5">
+        <h2 class="fw-bold mb-4">Nuestros Servicios</h2>
+        <div class="row g-4">
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Ortodoncia</h5>
+                        <p class="card-text"> Este servicio corrige la posición de tus dientes con tratamientos personalizados a tu gusto para asi puedas lucir tu bella sonrisa.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Implantes Dentales</h5>
+                        <p class="card-text">Este servicio recupera tu sonrisa con implantes seguros y estéticos.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card h-100 shadow-sm">
+                    <div class="card-body">
+                        <h5 class="card-title">Limpieza y Blanqueamiento</h5>
+                        <p class="card-text">Mantén tus dientes sanos y brillantes con nuestros tratamientos, demuestra lo brillante que eres.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Formulario de reserva -->
+    <div class="row" id="formulario">
+        <div class="col-md-8 offset-md-2">
+            <div class="card shadow">
+                <div class="card-header bg-primary text-white">
+                    <h4 class="mb-0">Reserva tu cita</h4>
+                </div>
+                <div class="card-body">
+                    <form asp-action="ReservarDesdePublico" asp-controller="Turnos" method="post">
+                        <div class="mb-3">
+                            <label for="Nombre" class="form-label">Nombre completo</label>
+                            <input name="Nombre" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label for="RUT" class="form-label">RUT</label>
+                            <input name="RUT" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label for="Email" class="form-label">Email</label>
+                            <input name="Email" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label for="Telefono" class="form-label">Teléfono</label>
+                            <input name="Telefono" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label for="Fecha" class="form-label">Fecha preferida</label>
+                            <input name="Fecha" type="date" class="form-control" required />
+                        </div>
+                        <div class="mb-3">
+                            <label for="Hora" class="form-label">Hora preferida</label>
+                            <input name="Hora" type="time" class="form-control" required />
+                        </div>
+                        <button type="submit" class="btn btn-primary w-100">Enviar reserva</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-light text-center mt-5 py-4">
+        &copy; 2025 Clínica Sonrisa Plena | <a href="#">Aviso de privacidad</a> | <a href="#">Contacto: 9 31778332</a>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
+
+
+

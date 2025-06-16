@@ -1,0 +1,277 @@
+﻿/* Reset básico */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background: #fff8f0;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 20px;
+    align-items: center;
+}
+
+/* Header */
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #ff8c42;
+    color: white;
+    padding: 15px 20px;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.btn-agenda {
+    background: #005f99;
+    color: white;
+    padding: 12px 24px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: 700;
+    transition: background-color 0.3s ease;
+    cursor: pointer;
+    border: none;
+    display: inline-block;
+    text-align: center;
+}
+
+    .btn-agenda:hover {
+        background: #004a7a;
+    }
+
+.btn-large {
+    font-size: 1.5rem;
+    padding: 16px 32px;
+}
+
+/* Promo */
+.promo {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    gap: 20px; 
+    flex-wrap: wrap; 
+    margin: 40px 0;
+    background: #fff3e6;
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 8px 15px rgba(0,0,0,0.1);
+}
+
+/* Centrado igual en ambos lados */
+.promo-texto,
+.promo-imagen {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+    flex: none;
+}
+
+    .promo-texto h1 {
+        font-size: 3rem;
+        color: #ff8c42;
+        margin-bottom: 15px;
+    }
+
+.precio {
+    font-size: 2.5rem;
+    font-weight: 900;
+    color: #333;
+    margin-bottom: 25px;
+}
+
+.precio-referencial {
+    color: #999;
+    font-size: 1.2rem;
+    text-decoration: line-through;
+    margin-left: 15px;
+}
+
+.promo-imagen img {
+    max-width: 100%;
+    border-radius: 15px;
+    box-shadow: 0 6px 12px rgba(0,0,0,0.1);
+}
+
+/* Otras secciones igual que antes (detalles, pago, planes, etc) */
+.detalle, .formas-pago, .planes, .ventajas, .proceso, .testimonios, .formulario {
+    background: white;
+    border-radius: 15px;
+    padding: 30px 40px;
+    margin-bottom: 40px;
+    box-shadow: 0 6px 15px rgba(0,0,0,0.1);
+}
+
+    .detalle h2,
+    .planes h2,
+    .ventajas h2,
+    .proceso h2,
+    .testimonios h2,
+    .formulario h2 {
+        color: #ff8c42;
+        margin-bottom: 20px;
+        font-size: 2rem;
+        font-weight: 700;
+    }
+
+    .detalle ul,
+    .ventajas ul {
+        list-style: none;
+        padding-left: 0;
+    }
+
+        .detalle ul li,
+        .ventajas ul li {
+            padding: 10px 0;
+            font-weight: 600;
+            font-size: 1.1rem;
+            color: #333;
+            position: relative;
+        }
+
+            .detalle ul li::before,
+            .ventajas ul li::before {
+                content: "✔️";
+                position: absolute;
+                left: -25px;
+                color: #ff8c42;
+                font-weight: bold;
+            }
+
+/* Formas de pago */
+.formas-pago {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-weight: 700;
+    font-size: 1.2rem;
+    color: #005f99;
+}
+
+    .formas-pago img {
+        max-height: 60px;
+    }
+
+/* Proceso */
+.proceso ol {
+    padding-left: 20px;
+}
+
+    .proceso ol li {
+        margin-bottom: 10px;
+        font-weight: 600;
+        font-size: 1.1rem;
+    }
+
+/* Testimonios */
+.testimonios .testimonial {
+    background: #ff8c42;
+    color: white;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+    .testimonios .testimonial strong {
+        display: block;
+        margin-top: 10px;
+        font-weight: 700;
+    }
+
+/* Formulario */
+
+.formulario form {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.formulario .form-group {
+    display: flex;
+    flex-direction: column;
+}
+
+.formulario label {
+    margin-bottom: 8px;
+    font-weight: 700;
+    color: #ff8c42;
+}
+
+.formulario input,
+.formulario select {
+    padding: 10px;
+    border: 2px solid #ff8c42;
+    border-radius: 8px;
+    font-size: 1rem;
+    transition: border-color 0.3s ease;
+}
+
+    .formulario input:focus,
+    .formulario select:focus {
+        border-color: #005f99;
+        outline: none;
+    }
+
+.formulario button {
+    grid-column: 1 / -1;
+    padding: 15px;
+    font-size: 1.2rem;
+    background-color: #ff8c42;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 700;
+    transition: background-color 0.3s ease;
+}
+
+    .formulario button:hover {
+        background-color: #e6762b;
+    }
+
+/* Footer */
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    background: #ff8c42;
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
+}
+
+    .footer a {
+        color: white;
+        text-decoration: underline;
+        margin: 0 10px;
+    }
+
+        .footer a:hover {
+            color: #ffe4c4;
+        }
+
+/* Responsive */
+
+@media (max-width: 768px) {
+    .promo {
+        flex-direction: column;
+    }
+
+    .promo-texto,
+    .promo-imagen {
+        width: 100%;
+        max-width: 100%;
+        margin: 0 auto;
+    }
+}
